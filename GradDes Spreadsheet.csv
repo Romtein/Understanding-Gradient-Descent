@@ -1,0 +1,36 @@
+﻿Sales Price (X),Square Feet (Y),,,Sales Price X (Min/Max),Square Feet Y(Min/Max),
+"$220,350.00 ","1,210.00",,,0,0,
+"$261,000.00 ","1,450.00",,,0.294,0.343,
+"$329,800.00 ","1,940.00",,,0.371,0.459,
+"$538,200.00 ","2,100.00",,,0.606,0.496,
+"$621,000.00 ","2,760.00",,,0.699,0.652,
+"$888,300.00 ","4,230.00",,,1,1,
+,,,,,,
+,,,,,,
+,,,,,,
+Guess of m in y=mx+b,Guess of b in y=mx+b,Guessed Value (yguess),Loss,Deriv of Loss with respect to m,Deriv of Loss with respect to b,Updated Value of M
+4,5,5,4.17,0,0.333,3.572588347
+4,5,6.18,5.67,0.456,0.725,
+4,5,6.49,6.05,0.562,0.828,Updated Value of B
+4,5,7.42,8,0.91,1.141,4.403992645
+4,5,7.8,8.51,1.013,1.265,
+4,5,9,10.67,1.333,1.667,
+,,Sum,7.18,4.27,5.96,
+,,,,,,
+Guess of m in y=mx+b,Guess of b in y=mx+b,Guessed Value (yguess),Loss,Deriv of Loss with respect to m,Deriv of Loss with respect to b,Updated Value of M
+3.57,4.4,4.4,3.23,0,0.277,3.204182518
+3.57,4.4,5.45,4.35,0.398,0.627,
+3.57,4.4,5.73,4.63,0.488,0.719,Updated Value of B
+3.57,4.4,6.57,6.15,0.789,0.999,3.88401897
+3.57,4.4,6.9,6.51,0.874,1.11,
+3.57,4.4,7.98,8.11,1.135,1.468,
+,,Sum,5.5,3.68,5.2,
+,,,,,,
+Guess of m in y=mx+b,Guess of b in y=mx+b,Guessed Value (yguess),Loss,Deriv of Loss with respect to m,Deriv of Loss with respect to b,Updated Value of M
+3.2,3.88,3.88,2.51,0,0.227,2.887255039
+3.2,3.88,4.83,3.35,0.347,0.54,
+3.2,3.88,5.07,3.55,0.424,0.623,Updated Value of B
+3.2,3.88,5.83,4.73,0.684,0.874,3.430831719
+3.2,3.88,6.12,4.99,0.753,0.973,
+3.2,3.88,7.09,6.18,0.961,1.295,
+,,Sum,4.22,3.17,4.53,
